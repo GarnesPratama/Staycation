@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12a576c2.css",
+    "main.js": "/static/js/main.174f4df1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/placeholder.png": "/static/media/placeholder.835d255970e83c2ea9e0.png",
+    "static/media/featured.png": "/static/media/featured.c31bec7b3dfbdee8d178.png",
+    "static/media/review.png": "/static/media/review.4c042451cb4723ea6b7c.png",
+    "static/media/featured_3.png": "/static/media/featured_3.21cb68bb7797db0ad198.png",
+    "static/media/featured-1.png": "/static/media/featured-1.91f3f9fd494e1ad715c3.png",
+    "static/media/featured_4.png": "/static/media/featured_4.670d4d33717d9a72ed5b.png",
+    "static/media/house-3.png": "/static/media/house-3.08e1bda8045bc9388842.png",
+    "static/media/featured_2.png": "/static/media/featured_2.cf632f2a8d92f2e74a81.png",
+    "static/media/house-4.png": "/static/media/house-4.3f772e0200d47fc8d464.png",
+    "static/media/House.png": "/static/media/House.6b4d660a7f9a6fbc43cd.png",
+    "static/media/house-1.png": "/static/media/house-1.872d620c5c0213c87b49.png",
+    "static/media/apartment-3.png": "/static/media/apartment-3.26d377fc215c215ae5ec.png",
+    "static/media/hotels-1.png": "/static/media/hotels-1.329dd7a359db8aeaf5ef.png",
+    "static/media/apartment-1.png": "/static/media/apartment-1.e1fd4d069e2c2c8f7323.png",
+    "static/media/hotels.png": "/static/media/hotels.04e1ec032c46ffb5bd58.png",
+    "static/media/hotels-3.png": "/static/media/hotels-3.639c0d07baaeee735b90.png",
+    "static/media/Apartment.png": "/static/media/Apartment.73e31c5c2ce899e714bc.png",
+    "static/media/hotels-2.png": "/static/media/hotels-2.d6e2f26c0405ef4d08bc.png",
+    "static/media/apartment-2.png": "/static/media/apartment-2.f73c72955385f59e91a3.png",
+    "index.html": "/index.html",
+    "main.12a576c2.css.map": "/static/css/main.12a576c2.css.map",
+    "main.174f4df1.js.map": "/static/js/main.174f4df1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12a576c2.css",
+    "static/js/main.174f4df1.js"
+  ]
+}
