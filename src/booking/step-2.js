@@ -130,9 +130,12 @@ export default function number() {
           </div>
         </div>
         <div className="btn-cta grid justify-center mt-20 mb-20">
-          <button className=" items-center bg-blue w-72 h-12 rounded-md text-white hover:shadow-xl shadow-lg">
-            Continue to Book
-          </button>
+          <Link to={"/succes"}>
+            <button className=" items-center bg-blue w-72 h-12 rounded-md text-white hover:shadow-xl shadow-lg">
+              Continue to Book
+            </button>
+          </Link>
+
           <button className=" items-center bg-gray_form w-72 h-12 rounded-md text-gray_text hover:shadow-xl shadow-lg mt-5">
             Cancel
           </button>

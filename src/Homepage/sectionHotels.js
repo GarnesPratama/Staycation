@@ -4,6 +4,7 @@ import hotels from "../Assets/images/hotels.png";
 import hotels_1 from "../Assets/images/hotels-1.png";
 import hotels_2 from "../Assets/images/hotels-2.png";
 import hotels_3 from "../Assets/images/hotels-3.png";
+import { Link } from "react-router-dom";
 
 export default function sectionHotels() {
   return (
@@ -22,14 +23,17 @@ export default function sectionHotels() {
               />
 
               <div className="text mt-4 z-auto">
-                <div className="text-blue_dark font-sans font-medium text-xl">
-                  Green Park
-                </div>
-                <div className="text-gray_light font-sans font-light  text-base">
-                  Tangerang, Indonesia
-                </div>
+                <Link to={"/detail"}>
+                  <div className="text-blue_dark font-sans font-medium text-xl">
+                    Green Park
+                  </div>
+                  <div className="text-gray_light font-sans font-light  text-base">
+                    Tangerang, Indonesia
+                  </div>
+                </Link>
               </div>
             </div>
+
             <div className="items-hotels rounded-2xl overflow-hidden w-full mb-8 lg:mb-0   ">
               <img
                 src={hotels_1}

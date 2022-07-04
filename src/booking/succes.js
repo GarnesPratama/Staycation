@@ -35,9 +35,11 @@ export default function number() {
           </div>
         </div>
         <div className="btn-cta grid justify-center mt-10 mb-20">
-          <button className=" items-center bg-blue w-72 h-12 rounded-md text-white hover:shadow-xl shadow-lg">
-            Back to Home
-          </button>
+          <Link to={"/"}>
+            <button className=" items-center bg-blue w-72 h-12 rounded-md text-white hover:shadow-xl shadow-lg">
+              Back to Home
+            </button>
+          </Link>
         </div>
       </div>
     </div>

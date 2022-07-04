@@ -2,6 +2,7 @@ import React from "react";
 import plus from "../Assets/images/btn_plus.png";
 import minus from "../Assets/images/btn_minus.png";
 import calendar from "../Assets/images/ic_calendar.png";
+import { Link } from "react-router-dom";
 
 export default function sectionDetail() {
   return (
@@ -87,9 +88,11 @@ export default function sectionDetail() {
                     <a className="text-blue_dark font-medium">$480 USD</a> per{" "}
                     <a className="text-blue_dark font-medium">2 nights</a>
                   </div>
-                  <button className=" items-center bg-blue w-72 h-12 rounded-md text-white hover:shadow-xl shadow-lg">
-                    Continue to Book
-                  </button>
+                  <Link to={"/book"}>
+                    <button className=" items-center bg-blue w-72 h-12 rounded-md text-white hover:shadow-xl shadow-lg">
+                      Continue to Book
+                    </button>
+                  </Link>
                 </div>
               </div>
             </div>
